@@ -105,7 +105,7 @@
     justify-content: space-between;
     padding: 10px 0 10px 30px;
     font-family: "Poppins", sans-serif;
-    font-size: 15px;
+    font-size: 0.938rem;
     font-weight: 500;
     color: #37423b;
     white-space: nowrap;
@@ -127,7 +127,7 @@
     padding: 8px 25px;
     white-space: nowrap;
     transition: 0.3s;
-    font-size: 14px;
+    font-size: 0.875rem;
     display: inline-block;
 	text-decoration:none;
 }
@@ -136,7 +136,7 @@
     color: #fff;
 }
 .nav_menu a i {
-    font-size: 12px;
+    font-size: 0.75rem;
     line-height: 0;
     margin-left: 5px;
 }
@@ -145,7 +145,7 @@
 }
 .nav_menu .dropdown ul a {
     padding: 10px 20px;
-    font-size: 14px;
+    font-size: 0.875rem;
     text-transform: none;
     font-weight: 500;
 	
@@ -178,7 +178,7 @@
     justify-content: space-between;
     padding: 10px 0 10px 30px;
     font-family: "Poppins", sans-serif;
-    font-size: 15px;
+    font-size: 0.938rem;
     font-weight: 500;
     color: #37423b;
     white-space: nowrap;
@@ -204,7 +204,7 @@
 }
 .ban h1{
 	      margin: 0;
-    font-size: 48px;
+    font-size: 3rem;
     font-weight: 700;
     line-height: 56px;
     color: #fff;
@@ -213,13 +213,13 @@
 .ban h2{
 	color: #eee;
     margin: 10px 0 0 0;
-    font-size: 24px;
+    font-size: 1.5rem;
 	font-family: "Raleway", sans-serif;
 }
 .ban a{
 	font-family: "Raleway", sans-serif;
     font-weight: 500;
-    font-size: 15px;
+    font-size: 0.938rem;
     letter-spacing: 1px;
     display: inline-block;
     padding: 10px 35px;
@@ -251,7 +251,7 @@
 .about h3 {
 	    font-family: "Raleway", sans-serif;
     font-weight: 600;
-    font-size: 26px;
+    font-size: 1.635rem;
 }
 .about ul{
 	margin-top: 0;
@@ -262,7 +262,7 @@
 	list-style-type:none;
 }
 .about ul li i{
-	font-size: 20px;
+	font-size: 1.25rem;
 	color:#5fcf80;
 	margin:5px;
 }
@@ -282,7 +282,7 @@
     padding: 0;
     margin: 0 0 20px 0;
     font-family: "Raleway", sans-serif;
-    font-size: 15px;
+    font-size: 0.938rem;
     font-weight: 600;
     color: #37423b;
 }
@@ -293,7 +293,7 @@
 }
 .count span{
 	color: #5fcf80;
-	font-size:48px;
+	font-size:3rem;
 	font-weight:700;
 	
 }
@@ -309,7 +309,7 @@
 }
 .whyin h3 {
     font-weight: 700;
-    font-size: 34px;
+    font-size: 2rem;
     margin-bottom: 30px;
 }
 .whyin p {
@@ -333,18 +333,18 @@
 	text-align:center;
 }
 .why_cntr{
-	padding-top:14px;
+	padding-top:16px;
 }
 .whyin2{	
 	text-align: center;
     background: #fff;
-    padding: 48px 30px;
+    padding: 36px 30px;
     width: 100%;
     border: 1px solid #eef0ef;
 }
 .icon_y{
 	display:inline-block;
-	font-size: 32px;
+	font-size: 2rem;
     padding: 18px 24px;
     color: #5fcf80;
     margin-bottom: 30px;
@@ -353,7 +353,7 @@
 }
 .icony1{
 	display:inline-block;
-	font-size: 32px;
+	font-size: 2rem;
     padding: 18px 30px;
     color: #5fcf80;
     margin-bottom: 30px;
@@ -362,7 +362,7 @@
 }
 .icony2{
 	display:inline-block;
-	font-size: 32px;
+	font-size: 2rem;
     padding: 18px 28px;
     color: #5fcf80;
     margin-bottom: 30px;
@@ -370,12 +370,13 @@
     border-radius: 50px;
 }
 .whyin2 h4{
-	    font-size: 20px;
+	font-family: "Raleway", sans-serif;
+	    font-size: 1.25rem;
     font-weight: 700;
     margin: 0 0 30px 0;
 }
 .whyin2 p {
-    font-size: 15px;
+    font-size: 0.875rem;
     color: #848484;
 }
 .offers{
@@ -395,7 +396,7 @@
 	text-decoration: none;
 	    color: #37423b;
     transition: 0.3s;
-		font-size:16px;
+		font-size:1rem;
 	    font-weight: 700;
 }
 .offin:hover a{
@@ -406,58 +407,58 @@
 }
 .fa-store{
 	color:#ffbb2c;
-	font-size:30px;
+	font-size:1.875rem;
 }
 .fa-square-poll-vertical{
 	color:#5578ff;
-	font-size:30px;
+	font-size:1.875rem;
 }
 .fa-calendar-week{
 	color: #e80368;
-	font-size:30px;
+	font-size:1.875rem;
 }
 .fa-paint-roller{
 	color:#e361ff;
-	font-size:30px;
+	font-size:1.875rem;
 }
 .fa-database{
 	color:#47aeff;
-	font-size:30px;
+	font-size:1.875rem;
 }
 .fa-circle-dot{
 	color:#ffa76e;
-	font-size:30px;
+	font-size:1.875rem;
 }
 .fa-file-lines{
 	color:#11dbcf;
-	font-size:30px;
+	font-size:1.875rem;
 }
 .fa-tag{
 	color:#4233ff;
-	font-size:30px;
+	font-size:1.875rem;
 }
 .fa-anchor{
 	color:#b2904f;
-	font-size:30px;
+	font-size:1.875rem;
 }
 .fa-compact-disc{
 	color:#b20969;
-	font-size:30px;
+	font-size:1.875rem;
 }
 .fa-tower-cell{
 	color:#ff5828;
-	font-size:30px;
+	font-size:1.875rem;
 }
 .fa-fingerprint{
 	color:#29cc6;
-	font-size:30px;
+	font-size:1.875rem;
 }
 .course{
 	    padding: 60px 0;
     overflow: hidden;
 }
 .course_title h2{
-	    font-size: 14px;
+	    font-size: 0.875rem;
     font-weight: 500;
     padding: 0;
     line-height: 1px;
@@ -475,7 +476,7 @@
 }
 .course_title p{
 	    margin: 0;
-    font-size: 36px;
+    font-size: 2.25rem;
     font-weight: 700;
     text-transform: uppercase;
     font-family: "Poppins", sans-serif;
@@ -497,7 +498,7 @@
 
 .course_price h4{
 	font-family: "Raleway", sans-serif;
-	    font-size: 14px;
+	    font-size: 0.875rem;
     background: #5fcf80;
     padding: 7px 14px;
     color: #fff;
@@ -506,19 +507,19 @@
 .course_price p{
 	margin: 0;
     font-weight: 700;
-    font-size: 18px;
+    font-size: 1.125rem;
     color: #37423b;
 }
 .course_detail a{
 	font-weight: 700;
-    font-size: 20px;
+    font-size: 1.25rem;
 	    color: #37423b;
     transition: 0.3s;
 	font-family: "Raleway", sans-serif;
 	text-decoration:none;
 }
 .course_detail p{
-	    font-size: 13px;
+	    font-size: 0.813rem;
     color: #777777;
 }
 .course_detail a:hover{
@@ -558,16 +559,16 @@
 	    font-family: "Raleway", sans-serif;
 	    font-weight: 700;
     margin-bottom: 2px;
-    font-size: 18px;
+    font-size: 1.125rem;
 }
 .trainer_detail span{
 	    font-style: italic;
     display: block;
-    font-size: 13px;
+    font-size: 0.813rem;
 }
 .trainer_detail p{
 	padding-top: 10px;
-    font-size: 12px;
+    font-size: 0.75rem;
     font-style: italic;
     color: #aaaaaa;
 }
@@ -576,7 +577,7 @@
 }
 .trainer_social i {
 	color: #7e9486;
-    font-size: 18px;
+    font-size: 1.125rem;
     margin: 0 2px;
 	transition:0.4s;
 }
@@ -599,7 +600,7 @@
 	font-size:1.75rem;
 }
 .contact_add p{
-	    font-size: 14px;
+	    font-size: 0.875rem;
     line-height: 24px;
     margin-bottom: 0;
     font-family: "Raleway", sans-serif;
@@ -613,7 +614,7 @@
 	list-style:none;
 }
 .contact_add2 h4{
-	    font-size: 16px;
+	    font-size: 1rem;
     font-weight: bold;
     color: #444444;
     position: relative;
@@ -630,7 +631,7 @@
 .contact_add2 li i{
 	      padding-right: 2px;
     color: #5fcf80;
-    font-size: 12px;
+    font-size: 0.75rem;
     line-height: 1;
 }
 .contact_add2 li a:hover{
@@ -638,7 +639,7 @@
     color: #5fcf80;
 }
 .contact_new h4{
-	    font-size: 16px;
+	    font-size: 1rem;
     font-weight: bold;
     color: #444444;
     position: relative;
@@ -670,7 +671,7 @@
     bottom: -1px;
     border: 0;
     background: none;
-    font-size: 16px;
+    font-size: 1rem;
     padding: 0 20px 2px 20px;
     background: #5fcf80;
     color: #fff;
@@ -685,12 +686,12 @@ footer{
 	     padding-top: 1.5rem;
     padding-bottom: 1.5rem;
     color: #37423b;
-    font-size: 14px;
+    font-size: 0.875rem;
     background: #eef0ef;
 }
 footer p{
 	    padding-top: 5px;
-    font-size: 13px;
+    font-size: 0.813rem;
 
 }
 footer a:hover {
@@ -709,7 +710,7 @@ footer a {
 	
 }
 .footer_social a{
-	    font-size: 18px;
+	    font-size: 1.125rem;
     display: inline-block;
     background: #5fcf80;
     color: #fff;

@@ -450,6 +450,9 @@ html{
 	color:#29cc6;
 	font-size:1.875rem;
 }
+.course_im{
+	border:1px solid #c6ceca;
+}
 .course{
 	    padding: 60px 0;
     overflow: hidden;
